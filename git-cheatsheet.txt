@@ -1,1 +1,11 @@
+git status : megnézem van-e verziókövetés (ha fatal akkor nincs még verziókövetés)
 git innit - verziókövetés megkezdése az adott mappának
+git ad . ->minden változtatást hozzáadunk a következő snapshothoz
+git commit -m "commit message" itt nevezte el a verziót,  hogy miért jó nekünk
+---------------- eddig csináltunk mindent lokálisan
+ez már a verziókövetés------------
+git remote : van-e felhőben lévő repository amihez hozzá van kötve 
+(githubon csinálunk üres repositoryt) látom url tartalmat
+git remote add "origin" url 
+git remote -> kiírja, hogy mi tartozik hozzá, melyik repo 
+git push (először kidob egy errort, kimásoljuk a sort hit push --set--upstream orihin)
