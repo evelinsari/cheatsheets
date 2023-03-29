@@ -1,0 +1,11 @@
+cd change directory 
+cd .. - return
+cd <my folder> : (első betű után tabbal kiegészíti)
+felfelé nyíl -> visszahoz régebbi parancsokat
+cd :development /
+Ctrl+C -> ha beragadt a process segít kilépni
+mkdir: make directory  -> mkdir development -> létrehoz egy development mappát (mappa nevében ne legyen space)
+ni : new item -> ni file-name.extension (ne legyen szóköz)
+ls : listázza a working directory tartalmát
+ls -Force -> mutatja a rejtett fájlokat mappákat
+
